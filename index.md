@@ -12,7 +12,7 @@ seo:
 # Data 6: Introduction to Computational Thinking with Data &#x1f4ca;
 
 {: .mb-2 }
-UC Berkeley, Summer 2024
+UC Berkeley, Fall 2024
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
