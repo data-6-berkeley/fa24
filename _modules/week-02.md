@@ -1,7 +1,7 @@
 ---
 title: Week 2 — Visualizing Data
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Jul 8

@@ -1,7 +1,7 @@
 ---
 title: Week 6 — Human Contexts and Ethics and Conclusion
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Aug 5

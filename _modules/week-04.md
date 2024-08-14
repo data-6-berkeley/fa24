@@ -1,7 +1,7 @@
 ---
 title: Week 4 — Control and Iteration
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Jul 22

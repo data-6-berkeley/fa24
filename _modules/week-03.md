@@ -1,7 +1,7 @@
 ---
 title: Week 3 — Tables
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Jul 15

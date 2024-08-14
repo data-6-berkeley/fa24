@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: Data 6 Summer 2024 Course Staff.
+description: Data 6 Fall 2024 Course Staff.
 ---
 
 # Staff
@@ -23,12 +23,12 @@ Read more about our amazing Data 6 course staff below! We're all current or rece
 {{ staffer }}
 {% endfor %}
 
-## Tutors
+<!-- ## Tutors
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 {% for staffer in tutors %}
 {{ staffer }}
-{% endfor %}
+{% endfor %} -->
 
 <script src="../assets/darkmode.js"></script>
 <script>

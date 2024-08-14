@@ -1,7 +1,7 @@
 ---
 title: Week 5 — Simulation, Files, and Dictionaries
 class: Berkeley
-status: Active
+status: Inactive
 ---
 
 Jul 29
