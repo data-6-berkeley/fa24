@@ -8,7 +8,7 @@ description: Data 6 Fall 2024 Course Staff.
 
 Read more about our amazing Data 6 course staff below! We're all current or recent Berkeley undergraduates, so feel free to reach out with any questions about life at UC Berkeley, the data science major, or anything else Cal related!
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

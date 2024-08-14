@@ -24,7 +24,7 @@ UC Berkeley, Fall 2024
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 {: .mb-2 }
-**Instructors:**
+**Instructor**
 {: .mb-0 .fs-5 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'InstructorFront' %}
