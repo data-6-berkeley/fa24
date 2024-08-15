@@ -130,3 +130,10 @@ Please submit the link to your website to the [Gradescope](https://www.gradescop
 <hr>
 
 The Summer 2023 version of the website development lab was adapted by James Weichert from the [Data 94 Spring 2021 Homework 9](http://data94.org/resources/assets/homework/hw09/), created by Suraj Rampure, and edited by Jonathan Ferrari.
+
+<script src="../assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>
