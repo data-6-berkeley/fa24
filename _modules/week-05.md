@@ -6,7 +6,7 @@ status: Active
 
 Sep 23
 : **11**
-: **Homework 2**{: .label .label-homework} Introduction to Python &nbsp; **Due Oct 3 @ 11:00PM**
+: **Homework 2**{: .label .label-homework} Functions &nbsp; **Due Oct 3 @ 11:00PM**
 
 Sep 25
 : **12**

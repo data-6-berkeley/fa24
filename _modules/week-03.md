@@ -10,7 +10,7 @@ Sep 9
 
 Sep 11
 : **6**
-: **Lab 2**{: .label .label-lab} Using Jupyter Notebooks &nbsp;**Due Sep 11 @ 11:00PM**
+: **Lab 2**{: .label .label-lab}  &nbsp;**Due Sep 11 @ 11:00PM**
 
 Sep 13
 : **7**

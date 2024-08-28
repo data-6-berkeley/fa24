@@ -9,6 +9,7 @@ Nov 11
 
 Nov 13
 : **31**
+: **Lab 11**{: .label .label-lab}  &nbsp;**Due Nov 13 @ 11:00PM**
 
 Nov 15
 : **Quiz**
