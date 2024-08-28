@@ -26,10 +26,9 @@ One of—in our opinion—the best parts of data science at Berkeley is the oppo
 
 We are continually revising course materials, assignments, and policies to improve the course and make this the best learning experience for you all. We welcome constructive feedback about what we can improve, and will try our best to incorporate your feedback into future lectures, assignments, and iterations of the course.
 
-Again, welcome to Data 6 — we can’t wait to meet you and are super excited to be teaching you this summer!
-
+Again, welcome to Data 6! 
 Best,
-[Atticus](https://data6.org/su24/staff/#instructors) and [Edwin](https://data6.org/su24/staff/#instructors)
+Jedi Tsang.
 
 <hr>
 
@@ -44,9 +43,9 @@ This class serves a different purpose than several other classes that may sound 
 * [**CS 10**](https://cs10.org/sp24/): CS 10 (The Beauty and Joy of Computing) is a similar class to Data 6 in that it is intended as an introduction to computing that assumes no prior experience with programming. However, CS 10 focuses less on Python and data science, and more on abstract ideas in computer science. It is a fantastic alternative (or complement) to Data 6.
 * [**CS 61A**](https://cs61a.org/) and [**CS 88**](https://cs88-website.github.io/sp24/): Both CS 61A (Structure and Interpretation of Computer Programs) and CS 88 (Computational Structures in Data Science) also teach Python, but serve a slightly different purpose than Data 6 — namely, these courses are designed to introduce students to computer science, not to computing *in* data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. These courses are also substantially more fast-paced than Data 6, so they are excellent courses to take after Data 6 and/or Data 8.
 
-Starting in Summer 2022, we rearranged the order of some Data 6 topics to more gradually ramp up to more advanced concepts and give you the tools to work with real-world data earlier on in the semester. In Summer 2024 we are slightly adjusting some of the course materials to provide more of an emphasis of the impact of data science in the Social Sciences. This new ordering means that some of the lectures will be out of sync with the ordering of materials from previous iterations of the course. The ordering of content for this summer will be very similar to the Summer 2023 version of the course. If you want to review material from previous semesters, just keep in mind that you may not have learned certain concepts yet, and that’s perfectly ok.
+Starting in Summer 2022, we rearranged the order of some Data 6 topics to more gradually ramp up to more advanced concepts and give you the tools to work with real-world data earlier on in the semester. In Fall 2024 we are adjusting some of the course materials to provide more of an emphasis of the impact of data science in the Social Sciences. The ordering of content for this fall will be very similar to the Summer 2024 version of the course, but lined up to make the materials more understandable step-by-step. If you want to review material from previous semesters, just keep in mind that you may not have learned certain concepts yet, and that’s perfectly ok.
 
-The rough topic breakdown for this summer is as follows:
+The rough topic breakdown for this fall is as follows:
 * Week 1: Introduction to Python and Jupyter Notebooks
 * Week 2: Data Visualization & the Social Sciences
 * Week 3: Working with real-world tabular data using the `datascience` Python library
@@ -54,7 +53,7 @@ The rough topic breakdown for this summer is as follows:
 * Week 5: More Python (and more real-world applications)
 * Week 6: Probability and Simulation
 
-Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebooks we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures. You can read more [here](https://data6.org/su24/resources/).
+Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebooks we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures. You can read more [here](https://data6.org/fa24/resources/).
 
 ## Logistics &#x1F5D3;
 
