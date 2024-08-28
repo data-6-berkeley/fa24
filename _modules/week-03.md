@@ -19,5 +19,5 @@ Sep 13
 : **7** {: .label} Introduction to Social Science Research
   : Slides
 : **Discussion 3**{: .label .label-discussion}
-  : Worksheet &#8226; 
-  <!--[Solutions](./assignments/disc01-sols.pdf) -->
+  : Worksheet 
+  <!-- &#8226; [Solutions](./assignments/disc01-sols.pdf) -->
