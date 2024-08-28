@@ -5,12 +5,16 @@ status: Active
 ---
 
 Dec 2
-: **36**
+: **36**{: .label} Maps
+  : Slides &#8226; Code &#8226; Blank Code
+: *Optional Reading:* [Plotly Documentation](https://plotly.com/python/plotly-express/)
 
 
 Dec 4
-: **37**
-: **Lab 13**{: .label .label-lab}  &nbsp;**Due Dec 4 @ 11:00PM**
+: **37**{: .label} Randomness
+  : Slides &#8226; Code &#8226; Blank Code
+: **Lab 13**{: .label .label-lab} Randomness  &nbsp;**Due Dec 4 @ 11:00PM**
 
 Dec 6
-: **38**
+: **38**{: .label} Conclusion and Next 
+  : Slides
