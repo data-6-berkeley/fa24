@@ -18,6 +18,6 @@ Oct 9
 Oct 11
 : **18**{: .label} Introduction to Visualization  
   : Slides&#8226; Code &#8226; Blank Code
-:**Discussion 7**{: .label .label-discussion}
+: **Discussion 7**{: .label .label-discussion}
   : Worksheet 
   <!-- &#8226;[Solutions](./assignments/disc01-sols.pdf) -->

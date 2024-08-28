@@ -13,4 +13,4 @@ Nov 13
 : **Lab 11**{: .label .label-lab} Dictionaries &nbsp;**Due Nov 13 @ 11:00PM**
 
 Nov 15
-: **Quiz**
+: **Quiz**{: .label .label-exam} Quiz 2:Advanced Table Mathods, Visualization, Control 

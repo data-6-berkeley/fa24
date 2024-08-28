@@ -18,7 +18,7 @@ Sep 25
 Sep 27
 : **13**{: .label}  Applying
   : Slides &#8226; Code &#8226; Blank Code
-: *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html
+: *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Discussion 5**{: .label .label-discussion}
 : Worksheet
   <!--&#8226;[Solutions](./assignments/disc01-sols.pdf) -->

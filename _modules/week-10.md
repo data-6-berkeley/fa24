@@ -20,5 +20,5 @@ Nov 1
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
 : **Discussion 10**{: .label .label-discussion}
-  : Worksheet &#8226; 
-  <!--[Solutions](./assignments/disc01-sols.pdf) -->
+  : Worksheet 
+  <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->

@@ -17,6 +17,6 @@ Oct 25
 : **24**{: .label} Comparisons
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)
-:**Discussion 9**{: .label .label-discussion}
-  : Worksheet &#8226; 
-  <!--[Solutions](./assignments/disc01-sols.pdf) -->
+: **Discussion 9**{: .label .label-discussion}
+  : Worksheet 
+  <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->

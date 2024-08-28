@@ -7,7 +7,7 @@ Nov 18
 : **32**{: .label} Sampling
   : Slides
     : Slides &#8226; Code &#8226; Blank Code
-: **Final Project**{: .label .label-homework} 
+: **Final Project**{: .label .label-homework} &nbsp;**Due Dec 9 @ 11:00PM**
 
 
 Nov 20
@@ -17,7 +17,7 @@ Nov 20
 Nov 22
 : **34**{: .label} Randomness, Simulation
   : Slides &#8226; Code
-: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html); [CIT 
+: *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html);[CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Discussion 12**{: .label .label-discussion}
-  : Worksheet &#8226; 
-  <!--[Solutions](./assignments/disc01-sols.pdf) -->
+  : Worksheet
+  <!--&#8226;[Solutions](./assignments/disc01-sols.pdf) -->
