@@ -14,9 +14,9 @@ Oct 23
 : **Lab 8**{: .label .label-lab} Functions and Control &nbsp;**Due Oct 23 @ 11:00PM**
 
 Oct 25
-: **24**{: .label} Iteration
+: **24**{: .label} Comparisons
   : Slides &#8226; Code &#8226; Blank Code
-: *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
- **Discussion 9**{: .label .label-discussion}
+: *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)
+:**Discussion 9**{: .label .label-discussion}
   : Worksheet &#8226; 
   <!--[Solutions](./assignments/disc01-sols.pdf) -->

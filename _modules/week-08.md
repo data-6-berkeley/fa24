@@ -17,6 +17,7 @@ Oct 16
 
 Oct 18
 : **21**{: .label} TBD
+ : Slides &#8226; Code &#8226; Blank Code
 "**Discussion 8**{: .label .label-discussion}
   : Worksheet
   <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->

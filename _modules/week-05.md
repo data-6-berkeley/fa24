@@ -12,6 +12,7 @@ Sep 23
 
 Sep 25
 : **12**{: .label} Functions Part 2
+ : Slides &#8226; Code &#8226; Blank Code
 : **Lab 4**{: .label .label-lab} Functions &nbsp;**Due Sep 25 @ 11:00PM**
 
 Sep 27
