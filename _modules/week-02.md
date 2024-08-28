@@ -1,5 +1,5 @@
 ---
-title: Week 2 — Visualizing Data
+title: Week 2 
 class: Berkeley
 status: Active
 ---
@@ -20,3 +20,6 @@ Sep 6
 : **4**{: .label} Arrays and Variables
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [PPDS 1.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter1-basics.html#none), [CIT 5.1](https://inferentialthinking.com/chapters/05/1/Arrays.html)
+: **Discussion 2**{: .label .label-discussion}
+  : Worksheet &#8226; 
+  <!--[Solutions](./assignments/disc01-sols.pdf) -->
