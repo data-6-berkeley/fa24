@@ -6,7 +6,7 @@ status: Active
 
 Aug 28
 : **1**{: .label} Introduction, Course Overview
-  : Slides &#8226;
+  : Slides
 
 
 
