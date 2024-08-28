@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Data 6
 description: Introduction to Computational Thinking with Data
-author: Edwin Vargas Navarro (UC Berkeley)
-email: jedwin321@berkeley.edu
+author: Jedidiah Tsang (UC Berkeley)
+email: jedidiahtsang@berkeley.edu
 baseurl: '/fa24' # the subpath of your site, e.g. /blog
 url: 'https://data6.org' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", syllabus.md]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/data6.png"
 current_week: 1-introduction-to-python
 
