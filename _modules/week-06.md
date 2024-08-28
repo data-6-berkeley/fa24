@@ -5,12 +5,12 @@ status: Active
 ---
 
 Sep 30 
-: **14** {: .label} Row Methods, Joining Tables
+: **14**{: .label} Row Methods, Joining Tables
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 
 Oct 2
-: **15** Tables
+: **15**{: .label} Tables
 : **Lab 5**{: .label .label-lab}  Tables &nbsp;**Due Oct 2 @ 11:00PM**
 
 Oct 4
