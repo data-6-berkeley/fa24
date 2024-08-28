@@ -17,10 +17,10 @@ UC Berkeley, Fall 2024
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
-[Ed](https://edstem.org/us/courses/60192/){: .btn .btn-ed}
-[bCourses](https://bcourses.berkeley.edu/courses/1535590){: .btn .btn-bcourses}
-[Gradescope](https://www.gradescope.com/courses/800533){: .btn .btn-gradescope}
-[Textbook](https://data6.org/su24/resources/#supplemental-readings){: .btn .btn-textbook}
+[Ed](https://edstem.org/us/courses/65093/){: .btn .btn-ed}
+[bCourses](https://bcourses.berkeley.edu/courses/1538010){: .btn .btn-bcourses}
+[Gradescope](https://www.gradescope.com/courses/845265){: .btn .btn-gradescope}
+[Textbook](https://data6.org/fa24/resources/#supplemental-readings){: .btn .btn-textbook}
 [Jump to Current Week](#week-{{ site.current_week }}){: .btn .btn-currweek}
 
 {: .mb-2 }
