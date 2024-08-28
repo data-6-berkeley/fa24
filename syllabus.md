@@ -20,9 +20,9 @@ description: >-
 ## Welcome	&#x1F44B;
 
 
-Hi! Welcome to Data 6 Summer 2024! On behalf of the Data 6 course staff, we’re excited to be teaching you this summer and hope you enjoy this class as much as we enjoy teaching it. Whether you’re a first-time college student or a seasoned veteran student, Data 6 is the perfect course to get started with coding and data science. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics — _we will teach you_ **everything** _you need to succeed in this class and prepare you for further data science and/or computer science classes._ Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study, especially in the social sciences.
+Hi! Welcome to Data 6 Fall 2024! On behalf of the Data 6 course staff, we’re excited to be teaching you this fall and hope you enjoy this class as much as we enjoy teaching it. Whether you’re a first-time college student or a seasoned veteran student, Data 6 is the perfect course to get started with coding and data science. This course is specifically designed without any prerequisites or assumed prior knowledge of computer science or statistics — _we will teach you_ **everything** _you need to succeed in this class and prepare you for further data science and/or computer science classes._ Along the way, you’ll gain practical experience working with data and using Python code to extract useful insights from real-world data sets. Even if this is the last data science class you ever take, we hope you’ll learn useful skills that you can apply to your own major or field of study, especially in the social sciences.
 
-One of—in our opinion—the best parts of data science at Berkeley is the opportunity to learn from other students. All members of course staff are current or former undergraduates at UC Berkeley who have taken other data science classes (including Data 6!) and have experience teaching in classes like [Data 8](https://www.data8.org/) and Data 6. Believe it or not, we were all once students taking introductory data science and computer science classes and were just as confused and overwhelmed as you. We know what it’s like to step into a class feeling out of place, but also know what it’s like to finish a class feeling fulfilled and confident in your ability to succeed in data science and computer science at Berkeley. **You are here for a reason** — you are all talented students and are all more than capable of being great data scientists, computer scientists, engineers, social scientists, and more. We want to do our best to support you this summer, so please don’t hesitate to reach out to any of us on [course staff](https://data6.org/su24/staff/) via email or [Ed](https://edstem.org/us/courses/60192/discussion/) if you have any questions or concerns.
+One of—in our opinion—the best parts of data science at Berkeley is the opportunity to learn from other students. All members of course staff are current or former undergraduates at UC Berkeley who have taken other data science classes (including Data 6!) and have experience teaching in classes like [Data 8](https://www.data8.org/) and Data 6. Believe it or not, we were all once students taking introductory data science and computer science classes and were just as confused and overwhelmed as you. We know what it’s like to step into a class feeling out of place, but also know what it’s like to finish a class feeling fulfilled and confident in your ability to succeed in data science and computer science at Berkeley. **You are here for a reason** — you are all talented students and are all more than capable of being great data scientists, computer scientists, engineers, social scientists, and more. We want to do our best to support you this fall, so please don’t hesitate to reach out to any of us on [course staff](https://data6.org/su24/staff/) via email or [Ed](https://edstem.org/us/courses/60192/discussion/) or data6@berkeley.edu if you have any questions or concerns.
 
 We are continually revising course materials, assignments, and policies to improve the course and make this the best learning experience for you all. We welcome constructive feedback about what we can improve, and will try our best to incorporate your feedback into future lectures, assignments, and iterations of the course.
 
@@ -46,26 +46,26 @@ This class serves a different purpose than several other classes that may sound 
 Starting in Summer 2022, we rearranged the order of some Data 6 topics to more gradually ramp up to more advanced concepts and give you the tools to work with real-world data earlier on in the semester. In Fall 2024 we are adjusting some of the course materials to provide more of an emphasis of the impact of data science in the Social Sciences. The ordering of content for this fall will be very similar to the Summer 2024 version of the course, but lined up to make the materials more understandable step-by-step. If you want to review material from previous semesters, just keep in mind that you may not have learned certain concepts yet, and that’s perfectly ok.
 
 The rough topic breakdown for this fall is as follows:
-* Week 1: Introduction to Python and Jupyter Notebooks
-* Week 2: Data Visualization & the Social Sciences
-* Week 3: Working with real-world tabular data using the `datascience` Python library
-* Week 4: Python Functions and Control
-* Week 5: More Python (and more real-world applications)
-* Week 6: Probability and Simulation
+| **Topics Covered** | **Weeks** | 
+| Introduction and Basic Python Skills| Week 1-3|
+| Table Manipulations| Week 4-7|
+| Visualizations| Week 8-9|
+| Control, Comparisons, and Iteration| Week 10-11|
+| Sampling, Ethics, and Practical Applications | Week 12-15|
 
 Lecture slides will be posted to the website right before each lecture to allow you to follow along if you want. You are also welcome to experiment with the concepts you’ve learned by writing or editing code in the Jupyter Notebooks we provide for each lecture (feel free to change it however you want — we promise you won’t break anything). **There is no one textbook that covers the content of this course the way we intend on covering, so all of the material you’ll need to succeed in Data 6 will be presented in lecture, labs, homeworks, and discussions.** If you want to review additional material, we will post optional readings from online textbooks for other courses (e.g. Data 8) along with most lectures. You can read more [here](https://data6.org/fa24/resources/).
 
 ## Logistics &#x1F5D3;
 
-**Lecture**: Mondays & Wednesdays, 10-12PM; Tuesdays & Thursdays, 10AM-11AM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 110
+**Lecture**: Mondays, Wednesdays, Fridays:  6PM-7PM in [Haviland](https://www.berkeley.edu/map/haviland-hall/) 12
 
-**Lab**: (Usually) Tuesdays & Thursdays, 11AM-12PM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 110
+**Lab**: Within Wednesdays Lectures: 6PM-7PM in [Haviland](https://www.berkeley.edu/map/haviland-hall/) 12
 
-**Discussion**: Fridays, 10AM-12PM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 166 & 170
+**Discussion**: Fridays, Either 11AM-12PM in [Evans](https://www.berkeley.edu/map/evans-hall/) 3 or 12PM-1PM in [Evans](https://www.berkeley.edu/map/evans-hall/) 71
 
-**Office Hours (Optional)**: Wednesday 9AM-10AM in [SOCS](https://www.berkeley.edu/map/social-sciences-building/) 126 and Thursday 5PM-7PM in [Warren](https://www.berkeley.edu/map/?warren) 101B-B
+**Office Hours (Optional)**: Wednesday and Thursday 3PM-5PM in [Warren](https://www.berkeley.edu/map/?warren) 101B Section A
 
-The full schedule is available on the [Schedule](https://data6.org/su24/schedule/) page.
+The full schedule is available on the [Schedule](https://data6.org/fa24/schedule/) page.
 
 ## Course Components	&#x1F4D2;
 While this course is designed to fit into a six-week summer session, the pace of Data 6 over the summer is roughly twice as fast as the pace of a 3-unit class in the fall or spring semester. To compensate for the fast pace of the summer, we have more lectures and lab time per week than during the academic year. We do our best to make sure that we spend enough time on each concept, and that the material is approachable for all students. But if you feel like things are going too fast, let us know and we will try to slow down!
@@ -214,9 +214,9 @@ Try your best not to worry about grades, and we'll reciprocate by being fair and
 ## Accommodations	&#x1F91D;
 Everyone learns differently, and supporting each student individually is part of our job as instructors. We will make every effort to accommodate students to ensure that you can learn safely and comfortably.
 
-If you have a disability, you can email Atticus ([atticus.ginsborg@berkeley.edu](atticus.ginsborg@berkeley.edu)) and Edwin ([jedwin321@berkeley.edu](jedwin321@berkeley.edu)) and we can discuss options for accommodations. You can also communicate with the [Disabled Students Program](https://dsp.berkeley.edu/) (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
+If you have a disability, you can email data6@berkeley.edu and we can discuss options for accommodations. You can also communicate with the [Disabled Students Program](https://dsp.berkeley.edu/) (DSP) to have your DSP specialist send us a letter of accommodation letting us know what accommodations we need to provide. **You are *not* required to talk with us directly about your disability if you wish to work through DSP instead.**
 
-If you are a first-time student and anticipating DSP accommodations in furture classes, we recommend starting the DSP onboarding process over the summer when DSP is less busy. In past years, the DSP intake process has taken up to four weeks for some students. Once you register with DSP, the process for requesting accommodations in each of your classes is usually much smoother.
+If you are a first-time student and anticipating DSP accommodations in furture classes, we recommend starting the DSP onboarding process as soon as possible. In past years, the DSP intake process has taken up to four weeks for some students. Once you register with DSP, the process for requesting accommodations in each of your classes is usually much smoother.
 
 If you have reached out to DSP but have not heard back yet, we will gladly honor your accommodations while DSP processes your intake. Just let us know!
 
@@ -233,9 +233,9 @@ Here are some links to campus resources that may also be helpful:
 
 ## Acknowledgements 🙏
 
-The Summer 2024 version of Data 6 is based on the Summer 2023 version of Data 6-taught by James Weichert and Jonathan Ferrari, the Summer 2022 version of Data 6—taught by James Weichert and Will Furtado; [Data 94](http://data94.org/), created and taught by [Suraj Rampure](https://rampure.org/) in Spring 2021 at UC Berkeley; and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on [Data 8](https://data8.org/) at UC Berkeley.
+The Fall 2024 version of Data 6 is based on the Summer 2023 version of Data 6-taught by James Weichert and Jonathan Ferrari, the Summer 2022 version of Data 6—taught by James Weichert and Will Furtado; [Data 94](http://data94.org/), created and taught by [Suraj Rampure](https://rampure.org/) in Spring 2021 at UC Berkeley; and the Summer 2021 version of Data 6, taught by Ian Castro and Isaac Merritt. Data 6 and Data 94 are loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on [Data 8](https://data8.org/) at UC Berkeley.
 
-The Summer 2022 and 2023 content and assignments have been updated by UC Berkeley Professors [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html) and [Deborah Nolan](https://statistics.berkeley.edu/people/deborah-nolan) in collaboration with faculty at Tuskegee University and with help from Will Furtado, Kevin Miao, and James Weichert. Additionally, the Summer 2024 assignments have been updated through collaboration between many faculty and student researchers at UC Merced, UC Berkeley, Tuskegee University, and Laney College.
+The Summer 2022 and 2023 content and assignments have been updated by UC Berkeley Professors [Lisa Yan](https://www2.eecs.berkeley.edu/Faculty/Homepages/yanlisa.html) and [Deborah Nolan](https://statistics.berkeley.edu/people/deborah-nolan) in collaboration with faculty at Tuskegee University and with help from Will Furtado, Kevin Miao, and James Weichert. Additionally, the Summer 2024 and Fall 2024 assignments have been updated through collaboration between many faculty and student researchers at UC Merced, UC Berkeley, Tuskegee University, and Laney College.
 
 When creating Data 6, we've referred to the materials of several other courses:
 
