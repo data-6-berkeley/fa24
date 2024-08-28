@@ -23,12 +23,12 @@ Read more about our amazing Data 6 course staff below! We're all current or rece
 {{ staffer }}
 {% endfor %}
 
-<!-- ## Tutors
+## Tutors
 
 {% assign tutors = site.staffers | where: 'role', 'Tutor' %}
 {% for staffer in tutors %}
 {{ staffer }}
-{% endfor %} -->
+{% endfor %} 
 
 <script src="../assets/darkmode.js"></script>
 <script>
