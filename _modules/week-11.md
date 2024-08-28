@@ -18,6 +18,6 @@ Nov 6
 Nov 8
 : **30**{: .labe} File Formats, Dictionaries
   : Slides &#8226; Code &#8226; Blank Code
-:**Discussion 11**{: .label .label-discussion}
+: **Discussion 11**{: .label .label-discussion}
   : Worksheet &#8226; 
   <!--[Solutions](./assignments/disc01-sols.pdf) -->
