@@ -24,47 +24,39 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 10:10 AM
-        end: 12:00 PM
-        location: SOCS 110
+        start: 6:10 PM
+        end: 7:00 PM
+        location: Haviland 12
   - name: Tuesday
     events:
-      - name: Lecture
-        start: 10:10 AM
-        end: 11:00 AM
-        location: SOCS 110
-      - name: Lab
-        start: 11:10 AM
-        end: 12:00 PM
-        location: SOCS 110
   - name: Wednesday
     events:
       - name: Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: SOCS 126
+        start: 3:10 PM
+        end: 5:00 PM
+        location: Warren 101B Section A
       - name: Lecture
-        start: 10:10 AM
-        end: 12:00 PM
-        location: SOCS 110
+        start: 6:10 PM
+        end: 7:00 PM
+        location: Haviland 12
   - name: Thursday
     events:
-      - name: Lecture
-        start: 10:10 AM
-        end: 11:00 AM
-        location: SOCS 110
-      - name: Lab
-        start: 11:10 AM
-        end: 12:00 PM
-        location: SOCS 110
       - name: Office Hours
-        start: 5:00 PM
-        end: 7:00 PM
-        location: SLC
+        start: 3:10 PM
+        end: 5:00 PM
+        location: Warren 101B Section A
   - name: Friday
     events:
+      - name: Lecture
+        start: 6:10 PM
+        end: 7:00 PM
+        location: Haviland 12
       - name: Discussion
-        start: 10:10 AM
+        start: 11:10 AM
         end: 12:00 PM
-        location: SOCS 166 & 170
+        location: Evans 3
+      - name: Discussion
+        start: 12:10 PM
+        end: 1:00 PM
+        location: Evans 71
 ---
