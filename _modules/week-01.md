@@ -6,7 +6,7 @@ status: Active
 
 Aug 28
 : **1**{: .label} Introduction, Course Overview
-  : Slides
+  : [Slides](https://docs.google.com/presentation/d/1wfqq-EibkDL8Nm6HZwWHeSi9Lp3jvJrspRjc6dDwb2k/edit?usp=sharing)
 
 
 
