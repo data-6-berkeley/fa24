@@ -5,8 +5,7 @@ status: Active
 ---
 Nov 18
 : **32**{: .label} Sampling
-  : Slides
-    : Slides &#8226; Code &#8226; Blank Code
+  : Slides &#8226; Code &#8226; Blank Code
 : **Final Project**{: .label .label-homework} &nbsp;**Due Dec 9 @ 11:00PM**
 
 

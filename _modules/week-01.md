@@ -16,4 +16,4 @@ Aug 30
 : *Optional Reading:* [CIT 1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [3.1](https://inferentialthinking.com/chapters/03/1/Expressions.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)
 : **Survey**{: .label .label-survey} [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSdIeC6iGTiVL0yMGbZIpUFd1Kj_ikGyX2rOFXxfPEZ14CIl-g/viewform) &nbsp;
 : **Discussion 01**{: .label .label-discussion} Fractions & Health Data
-  : [Worksheet](./assignments/disc01.pdf) &#8226; [Solutions](./assignments/disc01-sol.pdf)
+  : [Worksheet](https://drive.google.com/file/d/1NytVp4FVwHsKJlUtHYGhbrQNGPmYNGqq/view?usp=sharing) &#8226; [Solutions](./assignments/disc01-sol.pdf)
