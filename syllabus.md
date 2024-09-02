@@ -131,7 +131,7 @@ This course does not have a midterm. Instead, we will have two short quizzes in 
 * Quiz 1: Monday, October 7th
 * Quiz 2: Friday, November 15th
 
-We will have a final exam during the campus-assigned slot: **Friday December 6th, 3PM-6PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: **Friday December 20th, 3PM-6PM.** The exam is worth 20% of your grade, and **taking the exam is a requirement for passing the class.** Unlike the quizzes, the final exam will be cumulative.
 
 We will post more details about quizzes and exams on Ed.
 
