@@ -45,6 +45,10 @@ schedule:
         start: 3:10 PM
         end: 5:00 PM
         location: Warren 101B Section A
+      - name: Instructor Office Hours
+      start: 3:10 PM
+      end: 4:00 PM
+      location: Warren 111
   - name: Friday
     events:
       - name: Lecture
