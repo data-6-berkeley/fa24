@@ -169,9 +169,9 @@ Here's how we will calculate your final grade:
 | Readings | 12% | 5 reading assignments graded on a rubric |
 | Lab | 13% | 13 labs (1% each) |
 | Homeworks | 20% | 4 homeworks (5% each) |
-| Final Project | 10% | Releases on week 5 |
+| Final Project | 10% | Releases in Week 10 |
 | Quizzes | 20% | 2 quizzes (10% each) |
-| Final Exam | 20% | In-Class on 8/9 |
+| Final Exam | 20% | December 20th, 3-6 PM |
 
 ### Participation
 Your participation in the course is important both for your learning and that of your peers. In order to incentivize your active participation throughout the semester, the “Participation” category of your final grade is worth 5%. This part of your grade will be determined as follows:
