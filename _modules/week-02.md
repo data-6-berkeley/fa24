@@ -23,4 +23,4 @@ Sep 6
 : **Survey**{: .label .label-survey} [Week 2 Survey](https://docs.google.com/forms/d/e/1FAIpQLScVMHQpBgbUIS74sOza-CcUKJ0wWxERQBHogNw09LytIpFvrA/viewform) &nbsp; **Due Sep 9 @ 11:00 PM**
 : **Discussion 2**{: .label .label-discussion} Python Basics: Names, Operations, Debugging
   : [Worksheet](https://drive.google.com/file/d/1jdltAlLYa-FTiwKWBEQFiPr9UpymjfD2/view?usp=sharing)
-  <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
+  &#8226; [Solutions](https://drive.google.com/file/d/1mQG7FSAA-NhcrdX5nH7jebAgf6QkKJmi/view?usp=sharing) 
