@@ -8,7 +8,7 @@ Sep 9
 : **5**{: .label} NumPy, Indexing, Working with Data
   : [Slides](https://docs.google.com/presentation/d/1taeZTQoKYsHB8IKv-xxlSaQovcEZdDbjqFxjK9Dfz30) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec05%2Flec05-blank.ipynb)
 : *Optional Reading:* [PPDS 5.2](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter5-numpy.html?highlight=numpy), [CIT 5.6](https://problemsolvingwithpython.com/05-NumPy-and-Arrays/05.05-Array-Indexing/)
-: **Homework 1**{: .label .label-homework} Introduction to Python &nbsp; **Due Sep 19 @ 11:00PM**
+: **Homework 1**{: .label .label-homework} [Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw01%2Fhw01.ipynb) &nbsp; **Due Sep 19 @ 11:00PM**
 
 Sep 11
 : **6**{: .label} NumPy, Indexing, Working with Data Continued.
