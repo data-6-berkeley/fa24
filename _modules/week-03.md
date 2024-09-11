@@ -11,9 +11,7 @@ Sep 9
 : **Homework 1**{: .label .label-homework} [Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw01%2Fhw01.ipynb) &nbsp; **Due Sep 19 @ 11:00PM**
 
 Sep 11
-: **6**{: .label} NumPy, Indexing, Working with Data Continued.
- : Slides &#8226; Code &#8226; Blank Code
-: **Lab 2**{: .label .label-lab}  &nbsp;**Due Sep 11 @ 11:00PM**
+: **Lab 2**{: .label .label-lab} [NumPy, Indexing, Working with Data Continued](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab02%2Flab02.ipynb) &nbsp;**Due Sep 11 @ 11:00PM**
 
 Sep 13
 : **7**{: .label} Introduction to Social Science Research
