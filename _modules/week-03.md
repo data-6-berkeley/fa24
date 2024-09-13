@@ -16,6 +16,6 @@ Sep 11
 Sep 13
 : **7**{: .label} Introduction to Social Science Research
  : Slides &#8226; Code &#8226; Blank Code
-: **Discussion 3**{: .label .label-discussion}
-  : Worksheet 
+: **Discussion 3**{: .label .label-discussion} You Digital Self
+  : [Worksheet](https://drive.google.com/file/d/1KERKuu7IqR0PzgU2YhcjWT4aK2ft24OK/view?usp=sharing) 
   <!-- &#8226; [Solutions](./assignments/disc01-sols.pdf) -->
