@@ -8,7 +8,7 @@ Sep 16
 : **8**{: .label} Table Fundamentals 
    : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 6](https://inferentialthinking.com/chapters/06/Tables.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html) [`datascience` Documentation](http://data8.org/datascience/tutorial.html#creating-a-table)
-: **Reading 2**{: .label .label-reading} &nbsp;**Due Sep 12 @ 11:00PM**
+: **Reading 2**{: .label .label-reading} &nbsp;**Due Sep 29 @ 11:00PM**
 
 
 Sep 18
