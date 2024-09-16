@@ -12,9 +12,10 @@ Sep 16
 
 
 Sep 18
-: **9**{: .label} Tables Methods, Data Manipulaiotn
+: **9**{: .label} Tables Methods, Data Manipulation
+  : Slides &#8226; Code &#8226; Blank Code &nbsp;**Due Sep 18 @ 11:00PM**
 : **Lab 3**{: .label .label-lab} Tables and Data 
- : Slides &#8226; Code &#8226; Blank Code &nbsp;**Due Sep 18 @ 11:00PM**
+
 
 Sep 20 
 : **10**{: .label} Sorting and Filtering Rows
