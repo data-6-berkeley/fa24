@@ -11,7 +11,7 @@ Nov 18
 
 Nov 20
 : **33**{: .label} Project Work Day
-: **Lab 12**{: .label .label-lab}  &nbsp;**Due Nov 20 @ 11:00PM**
+: **Lab 12**{: .label .label-lab}   &nbsp;**Due Nov 20 @ 11:00PM**
 
 Nov 22
 : **34**{: .label} Randomness, Simulation

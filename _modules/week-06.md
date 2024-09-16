@@ -11,7 +11,7 @@ Sep 30
 
 Oct 2
 : **15**{: .label} Tables
-: Slides &#8226; Code &#8226; Blank Code
+  : Slides &#8226; Code &#8226; Blank Code
 : **Lab 5**{: .label .label-lab}  Tables &nbsp;**Due Oct 2 @ 11:00PM**
 
 Oct 4

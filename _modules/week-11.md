@@ -11,13 +11,14 @@ Nov 4
 
 
 Nov 6
-: **29**{: .labe} Iteration Practice
+: **29**{: .label} Iteration Practice
   : Slides &#8226; Code &#8226; Blank Code
-: **Lab 10**{: .label .label-lab}  &nbsp;**Due Nov 6 @ 11:00PM**
+: **Lab 10**{: .label .label-lab} Iterations  &nbsp;**Due Nov 6 @ 11:00PM**
+
 
 Nov 8
-: **30**{: .labe} File Formats, Dictionaries
+: **30**{: .label} File Formats, Dictionaries
   : Slides &#8226; Code &#8226; Blank Code
 : **Discussion 11**{: .label .label-discussion}
-  : Worksheet &#8226; 
-  <!--[Solutions](./assignments/disc01-sols.pdf) -->
+  : Worksheet 
+  <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
