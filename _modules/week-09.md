@@ -6,7 +6,7 @@ status: Active
 Oct 21
 : **22**{: .label} Visualizing Two Numerical Variables, Bickel Case Study
   : Slides&#8226; Code &#8226; Blank Code
-: **Reading 4**{: .label .label-reading} &nbsp;**Due Sep 12 @ 11:00PM**
+: **Reading 4**{: .label .label-reading} &nbsp;**Due Oct 31 @ 11:00PM**
 
 Oct 23
 : **23**{: .label} Functions and Control
