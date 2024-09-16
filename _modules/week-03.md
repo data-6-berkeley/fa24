@@ -15,7 +15,7 @@ Sep 11
 
 Sep 13
 : **7**{: .label} Introduction to Social Science Research
- : [Slides](https://docs.google.com/presentation/d/18c-sisN7okPV4TbdUh5zwT6NUNqgpuo8_Zjp4yevmS8/edit?usp=sharing) &#8226; Code &#8226; Blank Code
+ : [Slides](https://docs.google.com/presentation/d/18c-sisN7okPV4TbdUh5zwT6NUNqgpuo8_Zjp4yevmS8/edit?usp=sharing)
 : **Discussion 3**{: .label .label-discussion} Your Digital Self
   : [Worksheet](https://drive.google.com/file/d/1KERKuu7IqR0PzgU2YhcjWT4aK2ft24OK/view?usp=sharing) &#8226; [Solutions](https://drive.google.com/file/d/16ykyZIcznjpORfNvKN-14S95cJY9tPVM/view?usp=sharing)
-  : **Survey**{: .label .label-survey} [Week 3 Survey](https://forms.gle/2hgPrPJQgnZadJ3b6) &nbsp; **Due Sep 16 @ 11:00 PM**
+: **Survey**{: .label .label-survey} [Week 3 Survey](https://forms.gle/2hgPrPJQgnZadJ3b6) &nbsp; **Due Sep 16 @ 11:00 PM**
