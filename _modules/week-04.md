@@ -14,7 +14,7 @@ Sep 16
 Sep 18
 : **9**{: .label} Tables Methods, Data Manipulation
   : Slides &#8226; Code &#8226; Blank Code &nbsp;**Due Sep 18 @ 11:00PM**
-: **Lab 3**{: .label .label-lab} (Tables and Data)[https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=lab%2Ftree%2Fmaterials-fa24%2Flabs%2Flab03%2Flab03.ipynb]
+: **Lab 3**{: .label .label-lab} [Tables and Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=lab%2Ftree%2Fmaterials-fa24%2Flabs%2Flab03%2Flab03.ipynb)
 
 
 Sep 20 
