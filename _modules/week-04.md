@@ -21,6 +21,6 @@ Sep 20
 : **10**{: .label} Sorting and Filtering Rows
   : Slides &#8226; Code &#8226; Blank Code 
 : *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
-: **Discussion 4**{: .label .label-discussion}
-  : Worksheet 
+: **Discussion 4**{: .label .label-discussion} Documentation, Array Operations & Table Methods
+  : [Worksheet](https://drive.google.com/file/d/1sAJukjEekeoT5J3oVYQpRcKQR5OkhOsW/view?usp=sharing)
   <!--&#8226;[Solutions](./assignments/disc01-sols.pdf) -->
