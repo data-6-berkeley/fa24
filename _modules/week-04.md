@@ -19,7 +19,7 @@ Sep 18
 
 Sep 20 
 : **10**{: .label} Sorting and Filtering Rows
-  : [Slides](https://docs.google.com/presentation/d/1-_Lot-_BERSWnq_czksN9zKh8PPaLIADTsd4BiCdcDw/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec08%2Flec08-blank.ipynb)
+  : [Slides](https://docs.google.com/presentation/d/1-_Lot-_BERSWnq_czksN9zKh8PPaLIADTsd4BiCdcDw/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=lab%2Ftree%2Fmaterials-fa24%2Flectures%2Flec08%2Flec08-blank.ipynb)
 : *Optional Reading:* [CIT 6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [CIT 6.2](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html)
 : **Survey**{: .label .label-survey} [Week 4 Survey](https://forms.gle/LUV7VLVF1LJJrzFK7) &nbsp; **Due Sep 23 @ 11:00 PM**
 : **Discussion 4**{: .label .label-discussion} Documentation, Array Operations & Table Methods
