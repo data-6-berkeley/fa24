@@ -8,7 +8,7 @@ Oct 28
 : **25**{: .label} Control
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)
-: **Homework 4**{: .label .label-homework} Control, Iterations, Strings &nbsp; **Due Oct 3 @ 11:00PM**
+: **Homework 4**{: .label .label-homework} Control, Iterations, Strings &nbsp; **Due Nov 7 @ 11:00PM**
 
 Oct 30
 : **26**{: .label} Functions and Control

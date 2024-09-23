@@ -8,7 +8,7 @@ Oct 14
 : **19**{: .label} Visualizing Categorical Variables, Numerical Variables
   : Slides &#8226; Code&#8226; Blank Code
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
-: **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp; **Due Oct 3 @ 11:00PM**
+: **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp; **Due Oct 24 @ 11:00PM**
 
 Oct 16
 : **20**{: .label} Visualizations Methods
