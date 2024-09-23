@@ -6,7 +6,7 @@ status: Active
 
 Sep 23
 : **11**{: .label} Functions Part 1
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/1quIuRjNKan_dtiFTVhYv2pb3JNuG1bba80GHHPQmKfQ/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec11%2Flec11-blank.ipynb)
 : *Optional Reading:* [CIT 8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html), [PPDS 2.5](https://www.tomasbeuzen.com/python-programming-for-data-science/chapters/chapter2-loops-functions.html#functions)
 : **Homework 2**{: .label .label-homework} Functions &nbsp; **Due Oct 3 @ 11:00PM**
 
