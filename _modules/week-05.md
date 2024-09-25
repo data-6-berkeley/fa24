@@ -13,7 +13,7 @@ Sep 23
 Sep 25
 : **12**{: .label} Functions Part 2
   : Slides &#8226; Code &#8226; Blank Code
-: **Lab 4**{: .label .label-lab} Functions &nbsp;**Due Sep 25 @ 11:00PM**
+: **Lab 4**{: .label .label-lab} [Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab04%2Flab04.ipynb) &nbsp;**Due Sep 25 @ 11:00PM**
 
 Sep 27
 : **13**{: .label}  Applying
