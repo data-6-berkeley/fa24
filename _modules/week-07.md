@@ -10,13 +10,12 @@ Oct 7
 
 
 Oct 9
-: **17**{: .label} More Table Methods
-  : Slides &#8226; Code &#8226; Blank Code
 : **Lab 6**{: .label .label-lab} More Table Methods &nbsp;**Due Oct 9 @ 11:00PM**
+: Slides &#8226; Code &#8226; Blank Code
 
 
 Oct 11
-: **18**{: .label} Introduction to Visualization  
+: **12**{: .label} Introduction to Visualization  
   : Slides&#8226; Code &#8226; Blank Code
 : **Discussion 7**{: .label .label-discussion}
   : Worksheet 
