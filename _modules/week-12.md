@@ -8,9 +8,8 @@ Nov 11
 : No Class - Academic and Administrative Holiday
 
 Nov 13
-: **31**{: .label} Dictionaries
-  : Slides &#8226; Code &#8226; Blank Code
 : **Lab 11**{: .label .label-lab} Dictionaries &nbsp;**Due Nov 13 @ 11:00PM**
+  : Slides &#8226; Code &#8226; Blank Code
 
 Nov 15
 : **Quiz**{: .label .label-exam} Quiz 2:Advanced Table Mathods, Visualization, Control 

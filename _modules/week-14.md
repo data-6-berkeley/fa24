@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 25
-: **35**{: .label} Guest Lecture
+: **23**{: .label} Guest Lecture
 
 Nov 27
 : No Class - Non-Instructional Day
