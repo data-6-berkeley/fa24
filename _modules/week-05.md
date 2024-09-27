@@ -17,6 +17,6 @@ Sep 27
 : **9**{: .label}  Applying
   : Slides &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
-: **Discussion 5**{: .label .label-discussion}
-  : Worksheet
+: **Discussion 5**{: .label .label-discussion} Functions, Scope & Social Science
+  : [Worksheet](https://drive.google.com/file/d/1LNLX52yRT0pIXc4mwzo3SOUr5WcRLTdY/view?usp=sharing)
   <!--&#8226;[Solutions](./assignments/disc01-sols.pdf) -->
