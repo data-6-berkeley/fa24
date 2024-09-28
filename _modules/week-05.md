@@ -15,7 +15,7 @@ Sep 25
 
 Sep 27
 : **9**{: .label}  Applying
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/1koMnI_0NtvHZGMCBEqkkuNty50pzu9agoAHifhmkzLY/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec09%2Flec09-blank.ipynb)
 : *Optional Reading:* [CIT 8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Survey**{: .label .label-survey} [Week 5 Survey](https://forms.gle/RMdhuUcyFWHUdiaj9) &nbsp; **Due Sep 30 @ 11:00 PM**
 : **Discussion 5**{: .label .label-discussion} Functions, Scope & Social Science
