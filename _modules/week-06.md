@@ -6,7 +6,7 @@ status: Active
 
 Sep 30 
 : **10**{: .label} Row Methods, Joining Tables
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/1RA_Ok1AE4CmV3Q8uE1wZa0wdJfACYFjrgMyt1yYR2KM/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec10%2Flec10-blank.ipynb)
 : *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 
 Oct 2
