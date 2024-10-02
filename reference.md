@@ -53,8 +53,8 @@ In the function above, `my_function` is the name of the function, which takes on
 | `min(arr)` | Returns the minimum value in `arr` | **array** or **list** | The minimum value the array (usually an **int**) |
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
-| `print(`input`, ...)` | Prints the `input`. Multiple inputs can be passed, and they will be separated by spaces by default. | 1. **input**: any inputs print <br>| **None**|
-| `type(object)` | Returns the type of the given object. | 1. **object**: the object whose type is to be determined | **type**: the type of the object|
+| `print(input, ...)` | Prints the `input`. Multiple inputs can be passed, and they will be separated by spaces by default. | **input**: any inputs to print <br>| **None**|
+| `type(object)` | Returns the type of `object`. | **object**: the object whose type is to be determined | **type**: the type of the object|
 
 
 ## NumPy Array Functions
@@ -69,7 +69,7 @@ In the function above, `my_function` is the name of the function, which takes on
 | `np.count_nonzero(arr)` | Returns the number of non-zero (or `True`) elements in an array | An **array** of values |  **int**: the number of non-zero values in `arr` |
 | `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
 | `np.cumsum(arr)` | Returns the cumulative sum of the elements in `arr`, where each element is the sum of all preceding elements including itself | **array** | **array**: the cumulative sum of the values in the array |
-| `np.diff(arr)` | Computes the difference between consecutive elements in `arr`. | 1. **array**: input array | **array**: the differences between consecutive elements in the array containing `len(arr) - 1` elements |
+| `np.diff(arr)` | Computes the difference between consecutive elements in `arr`. | **array**: input array | **array**: the differences between consecutive elements in the array containing `len(arr) - 1` elements |
 
 
 
