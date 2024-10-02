@@ -10,7 +10,7 @@ Sep 30
 : *Optional Reading:* [CIT 8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 
 Oct 2
-: **Lab 5**{: .label .label-lab}  Tables &nbsp;**Due Oct 2 @ 11:00PM**
+: **Lab 5**{: .label .label-lab}  [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab05%2Fstudent%2Flab05.ipynb) &nbsp;**Due Oct 2 @ 11:00PM**
   : Slides &#8226; Code &#8226; Blank Code
 
 Oct 4
