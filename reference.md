@@ -53,6 +53,9 @@ In the function above, `my_function` is the name of the function, which takes on
 | `min(arr)` | Returns the minimum value in `arr` | **array** or **list** | The minimum value the array (usually an **int**) |
 | `sum(arr)` | Returns the sum of the values in `arr` | **array** or **list** | **int** or **float**: the sum of the values in the array |
 | `abs(num)` | Returns the absolute value of `num` | **int** or **float** | **int** or **float** |
+| `print(`input`, ...)` | Prints the `input`. Multiple inputs can be passed, and they will be separated by spaces by default. | 1. **input**: any inputs print <br>| **None**|
+| `type(object)` | Returns the type of the given object. | 1. **object**: the object whose type is to be determined | **type**: the type of the object|
+
 
 ## NumPy Array Functions
 
@@ -66,6 +69,8 @@ In the function above, `my_function` is the name of the function, which takes on
 | `np.count_nonzero(arr)` | Returns the number of non-zero (or `True`) elements in an array | An **array** of values |  **int**: the number of non-zero values in `arr` |
 | `np.append(arr, item)` | Appends `item` to the end of `arr`. Does not modify the original array. | 1. **array** to append to <br> 2. item to append (any type) | **array**: a new array with the appended item |
 | `np.cumsum(arr)` | Returns the cumulative sum of the elements in `arr`, where each element is the sum of all preceding elements including itself | **array** | **array**: the cumulative sum of the values in the array |
+| `np.diff(arr)` | Computes the difference between consecutive elements in `arr`. | 1. **array**: input array | **array**: the differences between consecutive elements in the array containing `len(arr) - 1` elements |
+
 
 
 ## String Methods
@@ -97,6 +102,8 @@ In the function above, `my_function` is the name of the function, which takes on
 | `tbl.group(column_or_columns, function)` | Groups rows in `tbl` by unique values or combinations of values in a column(s). Multiple columns must be entered as an array of strings. Values in the other columns are aggregated by count (by default) or the optional argument `function`. You can visualize the `group` function [here](http://data8.org/interactive_table_functions/). | 1. **string** or **array of strings**: column(s) on which to group <br> 2. (Optional) **Function**: function to aggregate values in cells (defaults to counting rows) | **Table** a new groupped table |
 | `tbl.pivot(col1, col2)` or `tbl.pivot(col1, col2, values, collect)` | Creates a pivot table where each unique value in `col1` has its own column and each unique value in `col2` has its own row. Counts or aggregates values from a third column, collected with some function. If the `values` and `collect` arguments are not included, `pivot` defaults to returning counts in the cells. You can visualize the `pivot` function [here](http://data8.org/interactive_table_functions/). | 1. **string**: name of the column in `tbl` whose unique values will make up the columns of the pivot table <br> 2. **string**: name of column in `tbl` whose unique values will make up the rows of the pivot table <br> 3. (Optional) **string**: name of the column in `tbl` that describes the values of cells in the pivot table <br> 4. (Optional) **Function**: how the values are collected (e.g. `sum` or `np.mean`) | **Table**: a new pivot table |
 | `tblA.join(colA, tblB)` or `tblA.join(colA, tblB, colB)` | Generate a table with the columns of `tblA` and `tblB`, containing rows for all values in `colA` and `colB` that appear in `tblA` and `tblB`, respectively. By default, `colB` is the same value as `colA`. `colA` and `colB` must be strings specifying column names. | 1. **string**: name of column in `tblA` with values to join on <br> 2. **Table**: the other table <br> 3. (Optional) **string**: the name of the shared column in `tblB`, if column names are different between the tables | **Table**: a new combined table |
+| `tbl.with_row(values)` | Adds a new row with the specified `values` to `tbl` | 1. **list** or **array**: values to add as a new row | **Table**: a copy of the original table with the new row |
+| `tbl.with_rows(list_of_rows)` | Adds multiple rows to `tbl` using a list of rows | 1. **list** of **lists** or **arrays**: each list/array represents a new row | **Table**: a copy of the original table with the new rows |
 
 ## Visualization Functions
 
