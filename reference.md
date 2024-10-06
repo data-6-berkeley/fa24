@@ -77,7 +77,8 @@ In the function above, `my_function` is the name of the function, which takes on
 
 | **Function** | **Description** | **Input** | **Output** |
 | `str.split(separator, maxsplit)` | Splits `str` into a list of substrings using the specified `separator`. If `separator` is not provided, splits at any whitespace. You can also use the optional argument `maxsplit` to limit the number of splits. | 1. (Optional) **separator**: the delimiter used to split `str` <br> 2. (Optional) **maxsplit**: maximum number of splits | **list** of substrings |
-| `str.join(iterable)` | Concatenates the elements in `iterable` (usually a list or array) into a single string, with each element separated by `str`. | **iterable**: an iterable of strings to join (can be an array or list of strings) | **string**: a single string formed by joining the elements of `iterable` with the separator string |
+| `str.join(iterable)` | Concatenates the elements in `iterable` (usually a list or array) into a single string, with each element separated by `str`. | **iterable**: an iterable of strings to join (can be an array or list of strings) | **string**: a single string formed by joining the elements of `iterable` with the separator `str` |
+| str.replace(old, new) | Returns a copy of the string with all occurrences of the substring `old` replaced by `new`.| `old`: the substring to be replaced. <br> `new`: the substring to replace `old` with. | string: a new string where occurrences of `old` have been replaced by `new`.|
 
 
 
