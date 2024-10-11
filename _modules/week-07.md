@@ -16,7 +16,7 @@ Oct 9
 
 Oct 11
 : **13**{: .label} Practice with Grouping and Pivoting  
-  : Slides&#8226; Code &#8226; Blank Code
+  : [Slides]((https://docs.google.com/presentation/d/1GxmAmS0vXqTy9aUSq3sV2JmuVTWf1DQvhE0fWBXaRJ8/edit?usp=sharing))&#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec12%2Flec12-blank.ipynb)
 : **Discussion 7**{: .label .label-discussion}
   : [Worksheet](https://drive.google.com/file/d/1Vkpt1mpY3_Aol21YAQGyiV7jMKVh5E6Q/view?usp=sharing)
   <!-- &#8226;[Solutions](./assignments/disc01-sols.pdf) -->
