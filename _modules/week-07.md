@@ -18,5 +18,5 @@ Oct 11
 : **13**{: .label} Practice with Grouping and Pivoting  
   : Slides&#8226; Code &#8226; Blank Code
 : **Discussion 7**{: .label .label-discussion}
-  : Worksheet 
+  : [Worksheet](https://drive.google.com/file/d/1Vkpt1mpY3_Aol21YAQGyiV7jMKVh5E6Q/view?usp=sharing)
   <!-- &#8226;[Solutions](./assignments/disc01-sols.pdf) -->
