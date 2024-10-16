@@ -11,8 +11,8 @@ Oct 14
 : **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp; **Due Oct 24 @ 11:00PM**
 
 Oct 16
-: **Lab 7**{: .label .label-lab} Introduction to Visualization Methods &nbsp;**Due Oct 16 @ 11:00PM**
-  : Slides &#8226; Code&#8226; Blank Code
+: **Lab 6**{: .label .label-lab} Introduction to Visualization Methods &nbsp;**Due Oct 16 @ 11:00PM**
+  : Slides &#8226; Code&#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab06%2Flab06.ipynb)
 
 Oct 18
 : **15**{: .label} Visualizing Categorical Variables, Numerical Variables
