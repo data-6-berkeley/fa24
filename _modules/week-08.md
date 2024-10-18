@@ -18,5 +18,5 @@ Oct 18
 : **15**{: .label} Visualizing Categorical Variables, Numerical Variables
   : Slides &#8226; Code &#8226; Blank Code
 : **Discussion 8**{: .label .label-discussion}
-  : Worksheet
+  : [Worksheet](https://drive.google.com/file/d/1gfIqGqTscOit7-tchcJUICvM2rG08dWO/view?usp=sharing)
   <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
