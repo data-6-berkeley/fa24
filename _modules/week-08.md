@@ -16,7 +16,7 @@ Oct 16
 
 Oct 18
 : **15**{: .label} Visualizing Categorical Variables, Numerical Variables
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/13duqMVmYt8nzvyN1LAl5Si7oKjSrAon5AZzi0DyyYMc/edit?usp=sharing) &#8226; Code &#8226; [Blank Code (Categorical Variables)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec15%2Flec15-categorical-blank.ipynb) &#8226; [Blank Code (Numerical Variables)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec15%2Flec15-numerical-blank.ipynb)
 : **Discussion 8**{: .label .label-discussion}
   : [Worksheet](https://drive.google.com/file/d/1gfIqGqTscOit7-tchcJUICvM2rG08dWO/view?usp=sharing)
   <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
