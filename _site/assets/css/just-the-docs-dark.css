@@ -2350,6 +2350,45 @@ iframe, summary { max-width: 100%; }
 .code_block .num { color: #389468; }
 .code_block .op { color: #8F3D67; }
 
+/* Added to allow for conflicts*/
+.weekly-schedule {
+  width: 100%;
+}
+
+.day-schedule {
+  margin-bottom: 20px;
+}
+
+.events-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Adds space between events */
+}
+
+.event {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: lightgray;
+  width: 48%; /* Adjust this if you want them side by side */
+  box-sizing: border-box;
+}
+
+.red {
+  background-color: red;
+}
+
+.gray {
+  background-color: gray;
+}
+
+/* Handle mobile display, make sure the events stack properly */
+@media (max-width: 768px) {
+  .event {
+    width: 100%;
+  }
+}
+
+
 /*
 table { font-size: 0.5em !important;
 }
