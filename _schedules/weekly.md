@@ -44,7 +44,11 @@ schedule:
       - name: Office Hours
         start: 3:10 PM
         end: 4:00 PM
-        location: Warren 101B Section A (Regular OH) and Warren 111 (Instructor OH)
+        location: Warren 101B Section A (Regular OH)
+      - name: Instructor Office Hours
+        start: 3:10 PM
+        end: 4:00 PM
+        location: Warren 111 
       - name: Regular Office Hours
         start: 4:10 PM
         end: 5:00 PM
