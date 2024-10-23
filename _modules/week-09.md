@@ -9,7 +9,7 @@ Oct 21
 : **Reading 4**{: .label .label-reading} &nbsp;**Due Oct 31 @ 11:00PM**
 
 Oct 23
-: **Lab 7**{: .label .label-lab} Visualizing Two Numerical Variables &nbsp;**Due Oct 23 @ 11:00PM**
+: **Lab 7**{: .label .label-lab} [Visualizing Two Numerical Variables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab07%2Flab07.ipynb) &nbsp;**Due Oct 23 @ 11:00PM**
   : Slides&#8226; Code &#8226; Blank Code
 
   
