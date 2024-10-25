@@ -8,7 +8,7 @@ Oct 14
 : **14**{: .label} Introduction to Visualization 
   : [Slides](https://docs.google.com/presentation/d/1Oe6i39ydZVPWPNxarR32x-PnlvKVJXOU5DFbkUE2a-Q/edit?usp=sharing)
 : *Optional Reading:* [CIT 7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html), [FDV 12.1](https://clauswilke.com/dataviz/visualizing-associations.html#associations-scatterplots)
-: **Homework 3**{: .label .label-homework} Advanced Table Methods &nbsp; **Due Oct 24 @ 11:00PM**
+: **Homework 3**{: .label .label-homework} [Advanced Table Methods and Visualizations](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fhw%2Fhw03%2Fhw03.ipynb) &nbsp; **Due Oct 24 @ 11:00PM**
 
 Oct 16
 : **Lab 6**{: .label .label-lab} [Introduction to Visualization Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab06%2Flab06.ipynb) &nbsp;**Due Oct 16 @ 11:00PM**
