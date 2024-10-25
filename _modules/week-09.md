@@ -15,7 +15,7 @@ Oct 23
   
 Oct 25
 : **17**{: .label} Visualizing Two Numerical Variables
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/1XGhv8HIE9Zdcc2vMJrTsdXmurBd-ydDOxVAzjtHwF3k/edit?usp=sharing) &#8226; Code &#8226; [Blank Code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flectures%2Flec17%2Flec17-blank.ipynb)
 : *Optional Reading:* [CIT 4.3](https://inferentialthinking.com/chapters/04/3/Comparison.html); [SPR 14](https://cs.stanford.edu/people/nick/py/python-if.html)
 : **Discussion 9**{: .label .label-discussion}
   : Worksheet 
