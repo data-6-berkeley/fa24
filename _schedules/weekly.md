@@ -48,7 +48,8 @@ schedule:
       - name: Instructor Office Hours
         start: 3:10 PM
         end: 4:00 PM
-        location: Warren 111 
+        location: Warren 111
+        overlap: true
   - name: Friday
     events:
       - name: Lecture
