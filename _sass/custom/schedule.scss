@@ -91,11 +91,17 @@
 
     .name {
       @extend .fs-3, .fw-700;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     .time,
     .location {
       @extend .fs-2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     &.lecture {
