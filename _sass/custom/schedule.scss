@@ -82,6 +82,12 @@
     padding: $sp-1 $sp-2;
     position: absolute;
     width: 100%;
+    overflow: hidden; /* Prevents text from overflowing the box */
+    white-space: nowrap; /* Ensures text stays on one line; use `normal` if you want it to wrap */
+    text-overflow: ellipsis; /* Adds "..." if the text overflows */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
     .name {
       @extend .fs-3, .fw-700;
