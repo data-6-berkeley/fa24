@@ -83,7 +83,7 @@
     position: absolute;
     width: 100%;
     overflow: hidden; /* Prevents text from overflowing the box */
-    white-space: nowrap; /* Ensures text stays on one line; use `normal` if you want it to wrap */
+    white-space: normal; /* Ensures text stays on one line; use `normal` if you want it to wrap */
     text-overflow: ellipsis; /* Adds "..." if the text overflows */
     display: flex;
     flex-direction: column;
@@ -93,7 +93,7 @@
       @extend .fs-3, .fw-700;
         overflow: hidden;
         text-overflow: ellipsis;
-        white-space: nowrap;
+        white-space: normal;
     }
 
     .time,
@@ -101,7 +101,7 @@
       @extend .fs-2;
         overflow: hidden;
         text-overflow: ellipsis;
-        white-space: nowrap;
+        white-space: normal;
     }
 
     &.lecture {
