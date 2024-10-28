@@ -84,24 +84,14 @@
     width: 100%;
     overflow: hidden; /* Prevents text from overflowing the box */
     white-space: normal; /* Ensures text stays on one line; use `normal` if you want it to wrap */
-    text-overflow: ellipsis; /* Adds "..." if the text overflows */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 
     .name {
       @extend .fs-3, .fw-700;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: normal;
     }
 
     .time,
     .location {
       @extend .fs-2;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: normal;
     }
 
     &.lecture {
@@ -121,13 +111,13 @@
     &.discussion {
       background-color: $purple-000;
     /* Styling for overlapping events */
-    &[style*="left: 50%"] {
+    /* &[style*="left: 50%"] {
       left: 50%;
-      width: 50%; /* Reduced width for side-by-side display */
-    }
+      width: 50%;  Reduced width for side-by-side display
+    } */
 
-    &[style*="z-index: 2"] {
-      z-index: 2; /* Higher z-index for overlapping events */
-    }
+    /* &[style*="z-index: 2"] {
+      z-index: 2; Higher z-index for overlapping events
+    } */
   }
 }
