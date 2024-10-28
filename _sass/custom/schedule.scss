@@ -112,13 +112,13 @@
       background-color: $purple-000;
     }
     /* Styling for overlapping events */
-    /* &[style*="left: 50%"] {
+    &[style*="left: 50%"] {
       left: 50%;
-      width: 50%;  Reduced width for side-by-side display
-    } */
+      width: 50%;  /* Reduced width for side-by-side display */
+    }
 
-    /* &[style*="z-index: 2"] {
-      z-index: 2; Higher z-index for overlapping events
-    } */
+    &[style*="z-index: 2"] {
+      z-index: 2; /* Higher z-index for overlapping events */
+    }
   }
 }
