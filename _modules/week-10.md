@@ -10,7 +10,7 @@ Oct 28
 : *Optional Reading:* [CIT 9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [CP 1.5](http://composingprograms.com/pages/15-control.html)
 
 Oct 30
-: **Lab 8**{: .label .label-lab} Functions and Control &nbsp;**Due Oct 30 @ 11:00PM**
+: **Lab 8**{: .label .label-lab} [Functions and Control](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab08%2Flab08.ipynb) &nbsp;**Due Oct 30 @ 11:00PM**
   : Slides &#8226; Code &#8226; Blank Code
 
 Nov 1
