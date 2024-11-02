@@ -15,7 +15,7 @@ Oct 30
 
 Nov 1
 : **19**{: .label} Iteration
-  : Slides &#8226; Code &#8226; Blank Code
+  : [Slides](https://docs.google.com/presentation/d/1gSQXiCF2jEEtoNmBnf6UO-cD6kA16UT9Cd8f70AJ7Pk/edit?usp=sharing) &#8226; Code &#8226; Blank Code
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
 : **Discussion 10**{: .label .label-discussion} Navigating Ethics and Impact in Data Visualization
   : [Worksheet](https://drive.google.com/file/d/1r81RPmjUYyEfOEw3tp46HubfExk2Rrg3/view?usp=sharing)
