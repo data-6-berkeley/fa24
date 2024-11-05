@@ -13,7 +13,7 @@ Nov 20
 : **Lab 12**{: .label .label-lab} Project Work Day 
 
 Nov 22
-: **22**{: .label} Randomness, Simulation
+: **22**{: .label} HCE Guest Lecture
   : Slides &#8226; Code
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html);[CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Discussion 12**{: .label .label-discussion}
