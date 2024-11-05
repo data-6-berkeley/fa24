@@ -5,7 +5,7 @@ status: Active
 ---
 
 Nov 25
-: **23**{: .label} Guest Lecture
+: **23**{: .label} ONLINE: LLMs/Prompt Engineering
 
 Nov 27
 : No Class - Non-Instructional Day
