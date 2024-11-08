@@ -19,5 +19,4 @@ Nov 1
 : *Optional Reading:* [CIT 9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-for.html)
 : **Discussion 10**{: .label .label-discussion} Navigating Ethics and Impact in Data Visualization
 : **Survey**{: .label .label-survey}[Week 10 Survey](https://forms.gle/GHfdsTQZaaCB7gX5A) &nbsp; **Due Nov 4 @ 11:00 PM**
-  : [Worksheet](https://drive.google.com/file/d/1r81RPmjUYyEfOEw3tp46HubfExk2Rrg3/view?usp=sharing)
-  <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
+  : [Worksheet](https://drive.google.com/file/d/1r81RPmjUYyEfOEw3tp46HubfExk2Rrg3/view?usp=sharing) &#8226; [Group Document](https://docs.google.com/document/d/1cOEthiHAVNNFro4P1JhXvsKE1z0bQgE9GY2HvgvzJT8/edit?usp=sharing)
