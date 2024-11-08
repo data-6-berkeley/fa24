@@ -19,6 +19,6 @@ Nov 6
 Nov 8
 : **20**{: .label} File Formats, Dictionaries
   : Slides &#8226; Code &#8226; Blank Code
-: **Discussion 11**{: .label .label-discussion}
-  : Worksheet 
+: **Discussion 11**{: .label .label-discussion} Control & Iteration
+  : [Worksheet](https://drive.google.com/file/d/1xpOoP2XMeLsvJAzs3kxmFkAaOW4DGPwK/view?usp=sharing)
   <!--&#8226; [Solutions](./assignments/disc01-sols.pdf) -->
