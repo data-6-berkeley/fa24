@@ -12,4 +12,4 @@ Nov 13
   : Slides &#8226; Code &#8226; Blank Code
 
 Nov 15
-: **Quiz**{: .label .label-exam} Quiz 2:Advanced Table Mathods, Visualization, Control 
+: **Quiz**{: .label .label-exam} Quiz 2:Advanced Table Methods, Visualization, Control 
