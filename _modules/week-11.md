@@ -17,8 +17,8 @@ Nov 6
 
 
 Nov 8
-: **20**{: .label} File Formats, Dictionaries
-  : Slides &#8226; Code &#8226; Blank Code
+: **21**{: .label} File Formats, Dictionaries
+  : [Slides](https://docs.google.com/presentation/d/1hKDCWSChyeu38r0D92RKyA22zpFaJ7iRsZVto-_lTVw/edit?usp=sharing) &#8226; Code &#8226; Blank Code
 : **Survey**{: .label .label-survey} [Week 11](https://forms.gle/vDvrFJu58nfMJYJKA) &nbsp; **Due Nov 12 @ 11:00 PM**
 : **Discussion 11**{: .label .label-discussion} Control & Iteration
   : [Worksheet](https://drive.google.com/file/d/1xpOoP2XMeLsvJAzs3kxmFkAaOW4DGPwK/view?usp=sharing)
