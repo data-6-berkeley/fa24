@@ -13,3 +13,4 @@ Nov 13
 
 Nov 15
 : **Quiz**{: .label .label-exam} Quiz 2:Advanced Table Methods, Visualization, Control 
+: **Survey**{: .label .label-survey} [Week 12](https://forms.gle/XyVdFc1KXsHE2o6HA) &nbsp; **Due Nov 19 @ 11:00 PM**
