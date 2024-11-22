@@ -17,5 +17,5 @@ Nov 22
   : Slides &#8226; Code
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html);[CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Discussion 12**{: .label .label-discussion}
-  : Google Doc Link](https://docs.google.com/document/d/1fyyBAA4GH-2i_-sUKECtcNA9fKPa5DzxfmQkKPCV_Rs/edit?usp=sharing)
+  : [Google Doc Link](https://docs.google.com/document/d/1fyyBAA4GH-2i_-sUKECtcNA9fKPa5DzxfmQkKPCV_Rs/edit?usp=sharing)
   <!--&#8226;[Solutions](./assignments/disc01-sols.pdf) -->
