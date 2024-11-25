@@ -6,6 +6,7 @@ status: Active
 
 Nov 25
 : **23**{: .label} ONLINE: LLMs/Prompt Engineering
+  : [Zoom link](https://berkeley.zoom.us/my/jeditsang)
 
 Nov 27
 : No Class - Non-Instructional Day
