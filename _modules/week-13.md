@@ -6,7 +6,7 @@ status: Active
 Nov 18
 : **22**{: .label} Sampling and CSS
   : [Slides](https://docs.google.com/presentation/d/1oFonzGqtGOUzA_GBhIunWWv78y_Ahx9PJK98-EuU55o/edit?usp=sharing) &#8226; Code &#8226; Blank Code
-: **Final Project**{: .label .label-homework} [Part 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fproj%2Fproject.ipynb) &nbsp;**Due November 25 @ 11:00PM** [Part 2] &nbsp;**Due December 9 @ 11:00PM**
+: **Final Project**{: .label .label-homework} [Part 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fproj%2Fproject.ipynb) &nbsp;**Due November 25 @ 11:00PM** [Part 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Fproj%2Fproject-part2.ipynb) &nbsp;**Due December 9 @ 11:00PM**
 
 
 Nov 20
