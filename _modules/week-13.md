@@ -14,7 +14,7 @@ Nov 20
 
 Nov 22
 : **23**{: .label} HCE Guest Lecture
-  : Slides &#8226; Code
+  : [Slides](https://drive.google.com/file/d/1RcKFr17wRP0opquOtYZCFU0EALB_D22T/view?usp=sharing) &#8226; Code
 : *Optional Reading:* [CIT 9](https://inferentialthinking.com/chapters/09/Randomness.html);[CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html)
 : **Survey**{: .label .label-survey} [Week 13](https://forms.gle/4SoGFSx2H43DNEvE8) &nbsp; **Due Nov 25 @ 11:00 PM**
 : **Discussion 12**{: .label .label-discussion}
