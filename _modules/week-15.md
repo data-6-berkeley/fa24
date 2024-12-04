@@ -11,7 +11,7 @@ Dec 2
 
 
 Dec 4
-: **Lab 13**{: .label .label-lab} Randomness  &nbsp;**Due Dec 4 @ 11:00PM**
+: **Lab 10**{: .label .label-lab} Randomness  &nbsp;**Due Dec 4 @ 11:00PM**
   : Slides &#8226; Code &#8226; Blank Code
 
   
