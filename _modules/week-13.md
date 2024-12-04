@@ -10,7 +10,7 @@ Nov 18
 
 
 Nov 20
-: **Lab 12**{: .label .label-lab} Project Work Day 
+: {: .label .label-lab} Project Work Day 
 
 Nov 22
 : **23**{: .label} HCE Guest Lecture
