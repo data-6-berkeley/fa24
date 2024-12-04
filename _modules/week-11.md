@@ -12,7 +12,7 @@ Nov 4
 
 
 Nov 6
-: **Lab 10**{: .label .label-lab} [Iterations](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab09%2Flab09.ipynb)  &nbsp;**Due Nov 6 @ 11:00PM**
+: **Lab 09**{: .label .label-lab} [Iterations](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab09%2Flab09.ipynb)  &nbsp;**Due Nov 6 @ 11:00PM**
   : Slides &#8226; Code &#8226; Blank Code
 
 
