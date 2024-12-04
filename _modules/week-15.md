@@ -11,7 +11,7 @@ Dec 2
 
 
 Dec 4
-: **Lab 10**{: .label .label-lab} Randomness  &nbsp;**Due Dec 4 @ 11:00PM**
+: **Lab 10**{: .label .label-lab} [Randomness](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fmaterials-fa24&branch=main&urlpath=tree%2Fmaterials-fa24%2Flabs%2Flab10%2Flab10.ipynb)  &nbsp;**Due Dec 4 @ 11:00PM**
   : Slides &#8226; Code &#8226; Blank Code
 
   
