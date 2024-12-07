@@ -17,4 +17,4 @@ Dec 4
   
 Dec 6
 : **26**{: .label} Conclusion and Next 
-  : Slides
+  : [Slides](https://docs.google.com/presentation/d/1uEAinVPiFeRGP1GWZb9sRJcuIzKGleBDbq-r_ESX4Wg/edit?usp=sharing)
