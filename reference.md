@@ -5,6 +5,9 @@ description: >-
     Python Reference Guide
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Python Reference &#x1F40D;
 {:.no_toc}
 

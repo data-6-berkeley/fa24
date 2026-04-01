@@ -5,6 +5,9 @@ tagline: Cheat sheet for quizzes and exams
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Data 6 Python Cheat Sheet
 _This cheat sheet has been modified from the Data 6 Python Reference and includes all of the functions and table methods that you will need for the exams._
 

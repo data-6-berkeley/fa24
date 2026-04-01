@@ -6,6 +6,9 @@ description: >-
     Course policies and information.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Syllabus &#x1F4D6;
 {:.no_toc}
 

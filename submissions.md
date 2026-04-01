@@ -5,6 +5,9 @@ tagline: How to Submit Data 6 Homeworks to Gradescope
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Homework Submission Instructions
 
 ### After you've completed a homework assignment, you'll want to follow these steps to submit your work:

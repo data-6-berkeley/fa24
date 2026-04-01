@@ -6,6 +6,9 @@ description: >-
     Resources
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Resources	&#x1F4DA;
 {:.no_toc}
 
